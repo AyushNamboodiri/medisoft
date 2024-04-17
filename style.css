@@ -538,3 +538,11 @@ ul {
 .swiper-pagination{
    position: static !important;
 }
+.location {
+    border-radius: 10px;
+    color: white;
+    height: 46px;
+    width: 100px;
+    text-align: center;
+    background-color: #014d01;
+}
